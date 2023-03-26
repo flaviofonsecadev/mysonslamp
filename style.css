@@ -40,7 +40,7 @@ button {
 
   border: none;
 
-  border-radius: 5px;
+  border-radius: 25px;
 
   margin-top: 80px;
 
@@ -48,7 +48,11 @@ button {
 
   cursor: pointer;
   
-  size: 80px;
+  width: 200px; 
+
+  height: 50px; 
+
+
 
 }
 
