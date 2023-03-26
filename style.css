@@ -38,19 +38,27 @@ button {
 
 
 
-  
+
 
   border-radius: 50px;
 
   bottom: 10px;
-
-
+  position: absolute;
 
   cursor: pointer;
-  
-  width: 100px; 
 
-  height: 350px; 
+  
+
+  width: 5%; 
+
+  height: 20%;
+
+
+  
+  
+  
+
+
 
 
 
