@@ -42,11 +42,13 @@ button {
 
   border-radius: 5px;
 
-  margin-top: 20px;
+  margin-top: 80px;
 
   font-size: 16px;
 
   cursor: pointer;
+  
+  size: 80px;
 
 }
 
